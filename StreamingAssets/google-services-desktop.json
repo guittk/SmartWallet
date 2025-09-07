@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097244508401",
+    "project_id": "meurh-3ce32",
+    "storage_bucket": "meurh-3ce32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097244508401:android:2c14d143e0b55793542950",
+        "android_client_info": {
+          "package_name": "com.thurgh.meurh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9J9TqLPqgFjuFmnzzDbRPlM3etXjP2To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
